@@ -1,2 +1,2 @@
 # spy4l
-a windows spy++ for Linux application
+spy++ for Linux application
